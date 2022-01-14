@@ -1,0 +1,22 @@
+Color gris:
+Hxa: #343434
+rgb(52,52,52)
+
+Color AguaMarina:
+Hxa: #009695
+rgb(0,150,149)
+
+Color AguaMarina Oscuro:
+Hxa: #005353
+rgb(0, 83, 83);
+
+
+
+#2EA0A7
+rgb(46,160,167)
+
+RGB R 46 V 160 A 167
+
+7a74b3
+https://bootstraptaste.com/page/2/
+
